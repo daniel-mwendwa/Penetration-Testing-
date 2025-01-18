@@ -37,7 +37,7 @@ This report aims to:
 **Daniel M. Mwithui**  
 - **Position:** Penetration Testing Intern  
 - **Email:** [danielmwendwa234@gmail.com](mailto:danielmwendwa234@gmail.com)  
-- **LinkedIn:** [Daniel Mwendwa](https://www.linkedin.com/in/daniel-mwendwa-a475311b7/)  
+- **LinkedIn:** [Daniel Mwendwa](https://www.linkedin.com/in/daniel-mwendwa-bsc-a475311b7/)  
 
 ## Conclusion
 This internship project not only enhanced my technical expertise but also deepened my understanding of cybersecurity principles.
