@@ -42,5 +42,3 @@ This report aims to:
 ## Conclusion
 This internship project not only enhanced my technical expertise but also deepened my understanding of cybersecurity principles.
 
-## License
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for details.
