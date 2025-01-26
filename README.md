@@ -19,7 +19,7 @@ This repository contains the detailed report of my penetration testing Project t
   - Importance of Honeypots
   - Mitigation Strategies for DoS and DDoS Attacks
   - Understanding Pivoting in Penetration Testing
-  - Zero-Day Vulnerabilities and Defense Strategies
+  - Zero-Day Vulnerabilities and Defense Strategies 
 
 ## Highlights
 - Hands-on tasks from platforms like [CTFlearn](https://ctflearn.com/), [PicoCTF](https://play.picoctf.org/), and [VulnHub](https://www.vulnhub.com/)
