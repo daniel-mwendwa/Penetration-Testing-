@@ -8,7 +8,7 @@ This repository contains the detailed report of my penetration testing Project t
   - POST Request and Authentication Bypass
   - Header Exploitation with cURL 
   - CVE Searching and Vulnerability Analysis
-  - Exploiting Vulnix and Kioptrix Machines
+  - Exploiting Vulnix and Kioptrix Machines 
   - Privilege Escalation Techniques
   - Exploring Robots.txt for Sensitive Data
   - MD5 Hash Collisions and Their Implications
