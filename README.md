@@ -4,7 +4,7 @@
 This repository contains the detailed report of my penetration testing Project that covers practical challenges and theoretical explorations, showcasing key penetration testing techniques, tools, and methodologies.
 
 ## Contents
-- **Practical Challenges:**
+- **Practical Challenges:** 
   - POST Request and Authentication Bypass
   - Header Exploitation with cURL
   - CVE Searching and Vulnerability Analysis
