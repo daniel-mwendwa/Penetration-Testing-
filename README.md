@@ -6,7 +6,7 @@ This repository contains the detailed report of my penetration testing Project t
 ## Contents
 - **Practical Challenges:** 
   - POST Request and Authentication Bypass
-  - Header Exploitation with cURL
+  - Header Exploitation with cURL 
   - CVE Searching and Vulnerability Analysis
   - Exploiting Vulnix and Kioptrix Machines
   - Privilege Escalation Techniques
